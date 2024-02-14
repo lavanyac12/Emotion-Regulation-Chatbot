@@ -46,7 +46,7 @@ sad_activities = [
 
 st.title("Speak to our chatbot, Moodie")
 
-emotion = st.text_input(label="How are you feeling?", max_chars=10)
+emotion = st.text_input(label="How are you feeling?", max_chars=15)
 
 if emotion:
     scale = st.selectbox("On a scale of 1-10, to what extent do you feel so?", range(0, 11))
