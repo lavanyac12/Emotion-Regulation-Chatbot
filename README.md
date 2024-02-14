@@ -24,4 +24,6 @@ This chatbot can act as an add-on to a wellness application/website for users to
 7. Lonely on a level 7
 <img width="780" alt="Lonely7" src="https://github.com/lavanyac12/Emotion-Regulation-Chatbot/assets/126518837/55fab2d1-2c16-4c3c-9d16-fc41bfc2c2b3">
 
-In such a manner we can input a range of emotions, for activity suggestions. 
+
+
+In such a manner we can input a range of emotions for activity suggestions. 
