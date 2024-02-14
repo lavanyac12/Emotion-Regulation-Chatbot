@@ -1,7 +1,9 @@
 # Emotion-Regulation-Chatbot
 Moodie is a chatbot designed to assist you in managing your emotions. Simply express your current emotional state and indicate its intensity on a scale from 1 to 10. Moodie then provide recommendations for activities aimed at promoting emotional well-being and balance. 
 
-This chatbot can act as an add-on to a wellness application/website for users to gain an idea on what they should do to when feeling downn, or how they should enhance positive feelings. The inclusion of curated activities for addressing sadness and related emotions reflects the importance of providing sensitive and empathetic responses in such delicate matters. By offering automated yet human-approved responses (as seen in my chatbot.py file where an array of responses is randomized), Moodie ensures that users receive thoughtful support and guidance, acknowledging the delicate nature of handling negative emotions.
+This chatbot can act as an add-on to a wellness application/website for users to gain an idea on what they should do to when feeling downn, or how they should enhance positive feelings. 
+
+As seen though that chatbot.py file, an array of human-approved responses is randomized for addressing sadness and related emotions, reflecting the importance of providing sensitive and empathetic responses in such delicate matters. Hence, Moodie ensures that users receive thoughtful support and guidance, acknowledging the delicate nature of handling negative emotions.
 
 1. Homepage
 <img width="780" alt="Home" src="https://github.com/lavanyac12/Emotion-Regulation-Chatbot/assets/126518837/770c8e6f-cdf7-4f3a-a5ab-df24a7ccbe61">
